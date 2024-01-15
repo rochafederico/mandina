@@ -1,0 +1,195 @@
+{
+    "ok": true,
+    "result": [
+        {
+            "update_id": 619466409,
+            "message": {
+                "message_id": 1,
+                "from": {
+                    "id": 764249841,
+                    "is_bot": false,
+                    "first_name": "Fede",
+                    "username": "nahuepm",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 764249841,
+                    "first_name": "Fede",
+                    "username": "nahuepm",
+                    "type": "private"
+                },
+                "date": 1695586364,
+                "text": "/start",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 6,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 619466410,
+            "message": {
+                "message_id": 2,
+                "from": {
+                    "id": 764249841,
+                    "is_bot": false,
+                    "first_name": "Fede",
+                    "username": "nahuepm",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 764249841,
+                    "first_name": "Fede",
+                    "username": "nahuepm",
+                    "type": "private"
+                },
+                "date": 1695586368,
+                "text": "Hola"
+            }
+        },
+        {
+            "update_id": 619466411,
+            "message": {
+                "message_id": 3,
+                "from": {
+                    "id": 764249841,
+                    "is_bot": false,
+                    "first_name": "Fede",
+                    "username": "nahuepm",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 764249841,
+                    "first_name": "Fede",
+                    "username": "nahuepm",
+                    "type": "private"
+                },
+                "date": 1695588202,
+                "text": "hola"
+            }
+        },
+        {
+            "update_id": 619466412,
+            "message": {
+                "message_id": 4,
+                "from": {
+                    "id": 5405817702,
+                    "is_bot": false,
+                    "first_name": "Dario",
+                    "language_code": "es"
+                },
+                "chat": {
+                    "id": 5405817702,
+                    "first_name": "Dario",
+                    "type": "private"
+                },
+                "date": 1695589394,
+                "text": "/start",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 6,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 619466413,
+            "message": {
+                "message_id": 5,
+                "from": {
+                    "id": 5405817702,
+                    "is_bot": false,
+                    "first_name": "Dario",
+                    "language_code": "es"
+                },
+                "chat": {
+                    "id": 5405817702,
+                    "first_name": "Dario",
+                    "type": "private"
+                },
+                "date": 1695589424,
+                "text": "Hola mandiguita!!! 😍🐶"
+            }
+        },
+        {
+            "update_id": 619466414,
+            "message": {
+                "message_id": 4413,
+                "from": {
+                    "id": 764249841,
+                    "is_bot": false,
+                    "first_name": "Fede",
+                    "username": "nahuepm",
+                    "language_code": "es"
+                },
+                "chat": {
+                    "id": -1001786077790,
+                    "title": "Los Pichiñanes",
+                    "type": "supergroup"
+                },
+                "date": 1695590416,
+                "new_chat_participant": {
+                    "id": 6681507662,
+                    "is_bot": true,
+                    "first_name": "Mandina",
+                    "username": "mandina_co_bot"
+                },
+                "new_chat_member": {
+                    "id": 6681507662,
+                    "is_bot": true,
+                    "first_name": "Mandina",
+                    "username": "mandina_co_bot"
+                },
+                "new_chat_members": [
+                    {
+                        "id": 6681507662,
+                        "is_bot": true,
+                        "first_name": "Mandina",
+                        "username": "mandina_co_bot"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 619466415,
+            "my_chat_member": {
+                "chat": {
+                    "id": -1001786077790,
+                    "title": "Los Pichiñanes",
+                    "type": "supergroup"
+                },
+                "from": {
+                    "id": 764249841,
+                    "is_bot": false,
+                    "first_name": "Fede",
+                    "username": "nahuepm",
+                    "language_code": "es"
+                },
+                "date": 1695590416,
+                "old_chat_member": {
+                    "user": {
+                        "id": 6681507662,
+                        "is_bot": true,
+                        "first_name": "Mandina",
+                        "username": "mandina_co_bot"
+                    },
+                    "status": "left"
+                },
+                "new_chat_member": {
+                    "user": {
+                        "id": 6681507662,
+                        "is_bot": true,
+                        "first_name": "Mandina",
+                        "username": "mandina_co_bot"
+                    },
+                    "status": "member"
+                }
+            }
+        }
+    ]
+}
